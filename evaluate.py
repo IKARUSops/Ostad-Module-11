@@ -3,7 +3,7 @@ from ultralytics import YOLO
 test_folder = "dataset/test/images"
 
 # Path to your best model weights
-best_model_path = "runs/train/exp/weights/best.pt"
+best_model_path = "runs/detect/train3/weights/best.pt"
 
 # Load YOLOv11 model with the trained weights
 model = YOLO(best_model_path)

@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=yolov11n.pt data=data.yaml epochs=75 batch=16 imgsz=640 project=Bangladeshi_Taka name=YOLOv11_Currency

@@ -8,7 +8,3 @@ wheels/
 dataset/
 # Virtual environments
 .venv
-*.zip
-runs/
-train.py
-dataset.zip
